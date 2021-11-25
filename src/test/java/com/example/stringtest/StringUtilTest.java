@@ -14,6 +14,7 @@ public class StringUtilTest {
         assertTrue(StringUtil.isEmpty(null));
         assertFalse(StringUtil.isEmpty("Id must not be empty"));
 
+
     }
     @Test
     public void testCapitalize() {
